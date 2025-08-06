@@ -13,6 +13,11 @@ pnpm dev
 # or
 bun dev
 ```
+# Must install the following before you run the project
+```bash
+npm install
+npm install axios bcrypt mongoose
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
